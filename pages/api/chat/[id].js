@@ -8,8 +8,7 @@ export default async function handler(req, res) {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
-      'Authorization': `Bearer ${sk-Sxmr1zNr_uilyDBO5-i7jQDlrl916fNdtD6KMW5tVpT3BlbkFJ1BhWRI99cPsA0xOpaU8PY-ehzgf4BbAMTk6YEL1VUA
-      }`,  // Use the API key here
+      'Authorization': `Bearer ${apiKey}`,  // Use the API key here
     },
     body: JSON.stringify({
       prompt: message,
