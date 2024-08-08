@@ -1,0 +1,4 @@
+USER: You: Hi
+BOT: Bot: Hey there!
+USER: You: HIi
+BOT: Bot: Sorry, there was an error.
