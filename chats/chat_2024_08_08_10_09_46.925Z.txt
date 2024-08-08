@@ -1,0 +1,4 @@
+USER: You: Hi
+BOT: Bot: Hey there!
+USER: You: What are your strengths?
+BOT: Bot: One of my core strengths is my ability to [Strength 1, e.g., solve complex problems]. For example, in my previous role at [Company], I led a project that involved [Brief Description], which improved [Outcome]. Additionally, my strong communication skills allow me to effectively collaborate with diverse teams and stakeholders. I am also highly organized, which enables me to manage multiple tasks efficiently. My adaptability and willingness to learn new technologies or processes have consistently helped me contribute positively to my teams.
